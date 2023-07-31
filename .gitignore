@@ -1,0 +1,7 @@
+
+## Files or folders ignored by Git version control are listed here.
+
+# Test and src files
+.vscode/*
+src/*
+test/*
